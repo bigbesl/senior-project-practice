@@ -1,0 +1,6 @@
+print("Senior Project Developer Profile")
+print()
+print("Name: Bryce Ly")
+print("Major: Computer Science")
+print("Technology Interest: Artificial Intelligence, Mobile App Development, Music Technology")
+print("Skill Goal: Full-Stack Web & Mobile App Development")
